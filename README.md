@@ -37,6 +37,9 @@ Weather Data: The file cotains the "weather.csv file", Weather Data Analysis inv
 
 The primary objective is to uncover patterns, trends, and relationships within the weather data. By employing statistical and visual analysis techniques, we aim to extract meaningful insights that contribute to a deeper understanding of the atmospheric conditions during the observed period.
 
+
+![pairplot](https://github.com/Temitope1456/Weather-Analysis-Project--EDA/assets/26870543/f12726b8-64da-4d51-b7b2-b0865d34bbae)
+
 ### The Work Flow:
 -Import Libraries
 - Load the data
